@@ -1,5 +1,6 @@
-### [MyTextEditor](app.sencom.top/my_text_editor)
+## [MyTextEditor]
 A simple text editor write by java
+[learn more...](my_text_editor/index.html)
 
 ```markdown
 Syntax highlighted code block
