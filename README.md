@@ -1,10 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MichaelJiang1997/sencom/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### MyTextEditor
+### [MyTextEditor](app.sencom.top/my_text_editor)
 A simple text editor write by java
 
 ```markdown
